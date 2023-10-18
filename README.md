@@ -6,8 +6,6 @@ A brief description of installing **Python Packages** Using **Pip and Virtual En
 
 `pip` is the reference [Python](https://www.python.org/downloads/) package manager. It’s used to install and update packages. You’ll need to make sure you have the latest version of `pip` installed.
 
-## Installing pip
-
 The Python installers for `Windows` include pip. You can make sure that pip is up-to-date by running:
 
 ```bash
